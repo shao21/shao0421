@@ -1,6 +1,22 @@
 <!doctype html>
 <html lang="zh_tw">
 
+body {
+  min-height: 100vh;
+  background-image: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.bg1-text {
+  font-size: 50px;
+
+}
+.bg1-img {
+  width: 400px;
+}
+
 <head>
     <title>40618209</title>
     <!-- Required meta tags -->
